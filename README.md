@@ -17,7 +17,6 @@ This repository provides the official codebase for the paper "Embedding Models f
 Both architectures generate embeddings that can be used with various **one-class classification algorithms** for anomaly detection.
 
 ## Repository content
-
 The repository is comprised of:
 
 - [AE.py](AE.py): Defines the `Autoencoder` class and the losses.
